@@ -4,9 +4,10 @@
 title: "Jalpc"
 description: "Jack's blog,use Jekyll and github pages."
 keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
-baseurl: "/"
+baseurl: "miridoro.github.io"
 # url: "http://www.jack003.com"
-url: "http://127.0.0.1:4000"
+# url: "http://127.0.0.1:4000"
+url: "miridoro.github.io"
 
 # author
 author:
