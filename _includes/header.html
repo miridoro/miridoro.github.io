@@ -1,25 +1,30 @@
+<!-- Wrapper -->
+<div id="wrapper">
+
 <!-- Header -->
-    <section id="header" class="skel-layers-fixed">
-        <header>
-            <span class="image avatar"><img src="{{ site.baseurl }}/images/simba.jpg" alt="" /></span>
-            <h1 id="logo"><a href="{{ site.baseurl }}/">Miriam Wodrich</a></h1>
-            <p>Junior Web Developer<br />
-            github_username: miridoro</p>
-        </header>
-        <nav id="nav">
-            <ul>
-                <li><a href="{{ site.baseurl }}/">Home</a></li>
-                <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-                <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
-            </ul>
-        </nav>
-        <footer>
-            <ul class="icons">
-                <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-                <li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-                <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-                <li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
-                <li><a href="#" class="icon fa-envelope"><span class="label">Email</span></a></li>
-            </ul>
-        </footer>
-    </section>
+<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+	<a href="{{ "" | absolute_url }}" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
+</header>
+
+<!-- Menu -->
+<nav id="menu">
+	<ul class="links">
+        {% for page in site.pages %}
+		    {% if page.layout == "home" %}
+		        <li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
+	    	{% endif %}
+		{% endfor %}
+		{% for page in site.pages %}
+		    {% if page.layout != "home" %}
+		        <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+		    {% endif %}
+		{% endfor %}
+	</ul>
+	<ul class="actions vertical">
+		<li><a href="#" class="button special fit">Get Started</a></li>
+		<li><a href="#" class="button fit">Log In</a></li>
+	</ul>
+</nav>
