@@ -4,13 +4,7 @@ title:  "Graphite"
 date:   2016-12-06
 excerpt: "A responsive, digital blogging platform App."
 project: true
-tag:
-- jekyll
-- moon
-- blog
-- about
-- theme
-comments: true
+comments: false
 ---
 
 ![Graphite Homepage](/assets/img/graphite.png)  
