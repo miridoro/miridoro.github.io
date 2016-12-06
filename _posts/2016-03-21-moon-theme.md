@@ -13,9 +13,9 @@ tag:
 comments: true
 ---
 
-<!-- ![Graphite Homepage](/assets/img/graphite.png)   -->
+![Graphite Homepage](/assets/img/graphite.png)  
 
-feature: /assets/img/graphite.png  
+<!-- feature: /assets/img/graphite.png   -->
 
 <!-- <center><b>Moon</b> is a minimal, one column jekyll theme.</center> -->
 
