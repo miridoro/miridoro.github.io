@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Graphite"
-date:   2016-04-06
+date:   
 excerpt: "A responsive, digital blogging platform App."
 project: true
 tag:
@@ -13,7 +13,9 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![Graphite Homepage](assets/img/graphite.png)
+
+'assets/img/graphite.png'   
 
 <center><b>Moon</b> is a minimal, one column jekyll theme.</center>
 
@@ -148,13 +150,3 @@ feaure: http://example.com/some-image.png
 To show disqus comments for your post add `comments: true` to your post's front matter.
 
 ---
-
-## Questions?
-
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Moon/issues/new). And if you make something cool with this theme feel free to let me know.
-
----
-
-## License
-
-This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
