@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Graphite"
-date:   
+date:   2016-04-06
 excerpt: "A responsive, digital blogging platform App."
 project: true
 tag:
@@ -13,9 +13,12 @@ tag:
 comments: true
 ---
 
-![Graphite Homepage](assets/img/graphite.png)
+![Graphite Homepage](/assets/img/graphite.png)  
 
-'assets/img/graphite.png'   
+feature: /assets/img/graphite.png  
+
+<!-- <center><b>Moon</b> is a minimal, one column jekyll theme.</center> -->
+
 
 
 <!-- <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>     -->
