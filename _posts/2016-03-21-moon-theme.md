@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Graphite"
-date:   2016-04-06
+date:   2016-12-06
 excerpt: "A responsive, digital blogging platform App."
 project: true
 tag:
@@ -15,7 +15,7 @@ comments: true
 
 ![Graphite Homepage](/assets/img/graphite.png)  
 
-feature: /assets/img/graphite.png  
+<!-- feature: /assets/img/graphite.png   -->
 
 <!-- <center><b>Moon</b> is a minimal, one column jekyll theme.</center> -->
 
