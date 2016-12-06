@@ -6,7 +6,7 @@ excerpt: "London City Bike App that shows bike stations and number of bikes avai
 comments: false
 ---
 
-![Graphite Homepage](/assets/img/graphite.png)
+![Graphite Homepage](/assets/img/salamander.png)
 
 <!-- ## HTML Elements
 
