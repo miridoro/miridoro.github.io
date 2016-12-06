@@ -13,9 +13,9 @@ tag:
 comments: true
 ---
 
-![Graphite Homepage](/assets/img/graphite.png)  
+<!-- ![Graphite Homepage](/assets/img/graphite.png)   -->
 
-<!-- feature: /assets/img/graphite.png   -->
+feature: /assets/img/graphite.png  
 
 <!-- <center><b>Moon</b> is a minimal, one column jekyll theme.</center> -->
 
@@ -23,7 +23,7 @@ comments: true
 
 <!-- <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Moon&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>     -->
 
-## Installation
+<!-- ## Installation
 * Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
 * Edit `_config.yml` file.
 * Remove sample posts from `_posts` folder and add yours.
@@ -149,4 +149,4 @@ feaure: http://example.com/some-image.png
 ### Comments
 To show disqus comments for your post add `comments: true` to your post's front matter.
 
----
+--- -->
