@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  "Salamander Bike App"
-date:   2016-12-06
-excerpt: "London City Bike App that shows bike stations and number of bikes available."
-comments: false
+title:  "Markdown Syntax"
+date:   2016-03-15
+excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+tag:
+- markdown 
+- syntax
+- sample
+- test
+- jekyll
+comments: true
 ---
 
-![Graphite Homepage](/assets/img/salamander.png)
-
-<!-- ## HTML Elements
+## HTML Elements
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
@@ -105,4 +109,4 @@ Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midto
 ## Notices
 
 **Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice} -->
+{: .notice}

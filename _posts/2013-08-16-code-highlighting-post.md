@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: post
 title: Syntax Highlighting Post
 date: 2013-08-16
@@ -118,4 +118,4 @@ end
 
 An example of a Gist embed below.
 
-{% gist mmistakes/6589546 %} -->
+{% gist mmistakes/6589546 %}
