@@ -7,7 +7,7 @@ comments: false
 ---
 
 
-![Graphite Homepage](assets/img/salamander.png) 
+![Graphite Homepage](/assets/img/salamander.png) 
 
 ## HTML Elements
 
