@@ -3,6 +3,7 @@ layout: post
 title:  "Salamander Bike App"
 date:   2016-12-08
 excerpt: "London City Bike App that shows bike stations and number of bikes available."
+project: true
 comments: false
 ---
 
