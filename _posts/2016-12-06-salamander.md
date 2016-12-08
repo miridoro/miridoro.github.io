@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title:  "Salamander Bike App"
 date:   2016-12-06
 excerpt: "London City Bike App that shows bike stations and number of bikes available."
