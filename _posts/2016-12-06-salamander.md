@@ -1,12 +1,12 @@
 ---
-layout: project
+layout: post
 title:  "Salamander Bike App"
-date:   2016-12-06
+date:   2016-12-08
 excerpt: "London City Bike App that shows bike stations and number of bikes available."
 comments: false
 ---
 
-![Graphite Homepage](/assets/img/salamander.png)
+![Salamander Homepage](/assets/img/salamander.png)
 
 <!-- ## HTML Elements
 
