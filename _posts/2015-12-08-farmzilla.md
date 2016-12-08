@@ -10,6 +10,9 @@ comments: true
 
 ![FarmZilla Homepage](/assets/img/farmzilla.png)
 
+Link: https://farmzilla.herokuapp.com/
+Code: https://github.com/miridoro/wdi-project-1
+
 
 
 
