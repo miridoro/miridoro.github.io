@@ -9,8 +9,7 @@ comments: false
 <!-- <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> -->
 
 ## About Me
-* Scientist turned Web Developer
-* Animal Advocate
+<h3> My background in computational and lab-based biochemistry allowed me to develop my analytical problem-solving skills, as well as to expand my creativity by designing my own projects. My love for computers and coding brought me on the Web Development path, and I cannot wait to embark and grow in my new career as a web developer.</h3>
 
 
 <!-- ## Preview
