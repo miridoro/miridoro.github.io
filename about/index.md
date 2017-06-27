@@ -8,7 +8,7 @@ comments: false
 
 <!-- <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> -->
 
-<h2> I am a full-stack web developer currently based in London, with a background in computational biology. I created this website to showcase my project portfolio.</h2>
+<h4> I am a full-stack web developer currently based in London, with a background in computational biology. I created this website to showcase my project portfolio.</h4>
 
 
 
