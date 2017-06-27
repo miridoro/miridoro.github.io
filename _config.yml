@@ -9,7 +9,7 @@ background:         'assets/img/laptop.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 # url:                http://taylantatli.github.io/Moon
-url:                ''
+url:                'http://miriamdorothea.com'
 
 # Jekyll
 permalink:          /:title/

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: My Story
 tags: [about, Jekyll, theme, moon]
 date: 2016-12-08
 comments: false
@@ -9,6 +9,8 @@ comments: false
 <!-- <center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center> -->
 
 <h3> My background in computational and lab-based biochemistry allowed me to develop my analytical problem-solving skills, as well as to expand my creativity by designing my own projects. My love for computers and coding brought me on the Web Development path, and I cannot wait to embark and grow in my new career as a web developer.</h3>
+
+<p>I am a full-stack web developer currently based in London, with a background in bioinformatics and molecular biology.</p>
 
 
 <!-- ## Preview

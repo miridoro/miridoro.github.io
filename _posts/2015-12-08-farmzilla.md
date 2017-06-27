@@ -1,17 +1,24 @@
 ---
 layout: post
-title:  "FarmZilla Children's Game"
+title:  "FarmZilla - A Children's Game"
 date:   2016-12-08
-excerpt: "Interactive children's game inspired by Simon Says Game."
+excerpt: "Interactive children's game inspired by the game Simon Says."
 project: true
 comments: true
 ---
 
+<p>A game designed for children, written in JavaScript and jQuery, inspired by the 70s game "Simon Says". The User plays against the computer, or farm animals in this case. The farm animals will play a sequence of sounds, which increase in complexity after each round. The User then has to imitate these sounds by pressing on the corresponding animal.</p>
+
+<p>The technologies used to build this project are: JavaScript, jQuery, HTML5, CSS3, and Heroku.</p>
+
+[FarmZilla Game - website](https://farmzilla.herokuapp.com/)
+
+
+[GitHub Code](https://github.com/miridoro/wdi-project-1)
+
 
 ![FarmZilla Homepage](/assets/img/farmzilla.png)
 
-Link: https://farmzilla.herokuapp.com/
-Code: https://github.com/miridoro/wdi-project-1
 
 
 

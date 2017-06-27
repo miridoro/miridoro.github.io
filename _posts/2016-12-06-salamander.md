@@ -7,10 +7,17 @@ project: true
 comments: false
 ---
 
+
+<p> This is a Google Maps App that allows the User to display all Santander bike stations within the City of London (using the Google Maps API and Transport for London API). Bike stations are represented by circles, where radius is proportional to the number of bikes available. In addition to this, the User can also display each bike station by the number of available free bike spots available. </p>
+
+<p>This project is a MEAN-Stack App. It was built with JavaScript, jQuery, HTML5, CSS3, SASS, Bootstrap, Express, MongoDB, bcrypt, Wysiwyg AngularJS text editor, AngularJS, and Node.js.</p>
+
+[Salamander Bikes App website](http://salamanderbikes.herokuapp.com/)
+
+[GitHub Code](https://github.com/miridoro/wdi-project-2)
+
 ![Salamander Homepage](/assets/img/salamander.png)
 
-Link: http://salamanderbikes.herokuapp.com/
-Code: https://github.com/miridoro/wdi-project-2
 
 <!-- ## HTML Elements
 
